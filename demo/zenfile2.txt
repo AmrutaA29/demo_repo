@@ -1,2 +1,3 @@
 file2
 This is changes from remote to local
+This is another change
